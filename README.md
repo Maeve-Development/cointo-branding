@@ -1,5 +1,5 @@
 # Cointo branding files
-These images and files may be used my official Cointo vendors. 
+These images and files may only be used by official Cointo vendors. 
 
 <h3>Terms of use</h3>
 The provided files may only be used on websites & applications by Cointo vendors with an official coID (CompanyID), issued by the Maeve Development Group under following conditions:
