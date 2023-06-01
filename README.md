@@ -14,6 +14,7 @@ The provided files may only be used on websites & applications by Cointo vendors
 You are required to check frequently for new terms of use.
 Any violating of the above Terms are prohibited by law.
 
+If you want to add your own image, please create an issue with the tag (image) and your image attached. Note that when you upload your image, all right of it belongs to us. We only accept images which do not include any copyright protected assets.
 
 Thanks, for using Cointo and supporting or journey, to make everyone be able to pay.
 
