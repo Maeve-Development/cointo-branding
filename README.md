@@ -11,3 +11,18 @@ The provided files may only be used on websites & applications by Cointo vendors
 
 
 Any violating of the above Terms are prohibited by law.
+
+
+Thanks, for using Cointo and supporting or journey, to make everyone be able to pay.
+
+  /$$$$$$            /$$             /$$              
+ /$$__  $$          |__/            | $$              
+| $$  \__/  /$$$$$$  /$$ /$$$$$$$  /$$$$$$    /$$$$$$ 
+| $$       /$$__  $$| $$| $$__  $$|_  $$_/   /$$__  $$
+| $$      | $$  \ $$| $$| $$  \ $$  | $$    | $$  \ $$
+| $$    $$| $$  | $$| $$| $$  | $$  | $$ /$$| $$  | $$
+|  $$$$$$/|  $$$$$$/| $$| $$  | $$  |  $$$$/|  $$$$$$/
+ \______/  \______/ |__/|__/  |__/   \___/   \______/ 
+                                                      
+                                                      
+                                                      
